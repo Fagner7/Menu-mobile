@@ -90,7 +90,7 @@ body, ul {
       background: #74554b;
       margin-top: 5px;
    }
-   #nav.active #hamburger {
-       background: pink;
+   #nav.active #hamburger { 
+       border-top-color: transparent;
    }
   }
